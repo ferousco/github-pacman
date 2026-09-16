@@ -19,8 +19,8 @@ jobs:
 
       - name: Append entries
         run: |
-          git config user.name "Ferousco-dev"
-          git config user.email "247435076+Ferousco-dev@users.noreply.github.com"
+          git config user.name "Ferousco"
+          git config user.email "247435076+Ferousco@users.noreply.github.com"
 
           # Vary the message so the log does not read as one line repeated.
           MESSAGES=(
